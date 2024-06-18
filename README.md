@@ -4,6 +4,6 @@
 - 🌱 Atualmente estudando react & nodejs 
 - 👯 procuro colaborar com a comunidade se possivel e tirar duvidas 
 - 💬 contate-me por email : contactdevrodri@gmail.com
-- 😄 Pronomes: dela/ela
+- 😄 Pronomes: ela/dela
 
 
