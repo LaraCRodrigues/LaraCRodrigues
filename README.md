@@ -3,7 +3,7 @@
 - 👜 cursando tecnólogo de Análise e Desenvolvimento de Sistemas na instituição Senai 
 - 🌱 Atualmente estudando react & nodejs 
 - 👯 procuro colaborar com a comunidade se possivel e tirar duvidas 
-- 💬 contate-me por email : contactdevrodri@gmail.com
+- 💬 contate-me por email : laracibelerodrigues1@gmail.com
 - 😄 Pronomes: ela/dela
 
 
