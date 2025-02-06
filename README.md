@@ -1,20 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá 👋 Como vaii ?</h1>
 
 ###
 
-<p align="left">My name is . Lara Cibele and I'm a Bahia, from Brazil</p>
+<p align="left">Meu nome é Lara Cibele ,eu sou do Brasil, mas especificamente de Camaçari Bahia.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since  2023<br>📚 I'm currently learning  react and python<br>🎯 Goals : Goals: finish college and get my first internship or job in the field</p>
+<p align="left">✨Criando bugs desde 2023<br>📚 Atualmente estudando React <br>🎯 Metas: terminar minha faculdade e realizar meu sonho de poder atuar na área, conseguindo meu primeiro estágio ou emprego como desenvolvedora  júnior</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Codifico com:</h2>
 
 ###
 
@@ -45,9 +45,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/lara-cibele-rodrigues-de-jesus-1b4147251/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="laracibelerodrigues1@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
